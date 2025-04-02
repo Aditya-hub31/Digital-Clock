@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742051493 source:c:\users\karna\onedrive\documents\aditya's documents\c program\digital clock\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+
